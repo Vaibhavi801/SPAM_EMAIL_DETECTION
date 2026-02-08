@@ -1,4 +1,4 @@
-]]]]# SPAM_EMAIL_DETECTION]]
+# SPAM_EMAIL_DETECTION
 
 ## Project Overview
 This project demonstrates the implementation of a **Machine Learning predictive model** using **scikit-learn** to classify emails as **Spam** or **Not Spam (Ham)**.  
